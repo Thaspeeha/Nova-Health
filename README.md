@@ -1,4 +1,7 @@
-# 🏥 NovaHealth - Preventive Health Intelligence System
+## 🖥️ Innovation Hackathon 2025 🛠️
+
+
+## 🏥 NovaHealth - Preventive Health Intelligence System
 
 The **Preventive Health Intelligence System** transforms **raw, fragmented health data** into **actionable insights** to support **proactive public health decision-making**.  
 
