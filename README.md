@@ -21,3 +21,12 @@ By combining **automation 🤖, data intelligence 📊, and human judgment 🧠*
 - Monitor health risks continuously  
 - Enable early response to emerging threats  
 - Strengthen preventive healthcare strategies across regions
+
+
+## 🖥️ Presentation
+[![PPT](https://img.shields.io/badge/Presentation-PPTX-blue)](https://www.canva.com/design/DAG2O867Va0/Qj62gi7Z_-Ofmq60zXLhxA/view?utm_content=DAG2O867Va0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f1e225218)  
+
+
+## 🌐 Check out our project
+[![Visit Website](https://img.shields.io/badge/Visit-Website-blue)](https://lablab.ai/event/ai-genesis/caelix/novahealth-preventive-health-intelligence-system)  
+
