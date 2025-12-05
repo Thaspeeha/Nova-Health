@@ -1,4 +1,4 @@
-## 🖥️ AI Genesis Hackathon 2025 🛠️
+# 🖥️ AI Genesis Hackathon 2025 🛠️
 
 
 ## 🏥 NovaHealth - Preventive Health Intelligence System
