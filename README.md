@@ -33,3 +33,7 @@ By combining **automation 🤖, data intelligence 📊, and human judgment 🧠*
 ## 🌐 Check out our project
 [![Visit Website](https://img.shields.io/badge/Visit-Website-blue)](https://lablab.ai/event/ai-genesis/caelix/novahealth-preventive-health-intelligence-system)  
 
+
+## 🎥 Watch the Project Video
+[Watch the video](https://www.canva.com/design/DAG4-HegoeM/eHTJJphNvnqJQvqW18y_zA/watch?utm_content=DAG4-HegoeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9489606611)
+
