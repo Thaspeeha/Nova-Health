@@ -27,7 +27,7 @@ By combining **automation 🤖, data intelligence 📊, and human judgment 🧠*
 
 
 ## 🖥️ Presentation
-[![PPT](https://img.shields.io/badge/Presentation-PPTX-blue)](https://www.canva.com/design/DAG2O867Va0/Qj62gi7Z_-Ofmq60zXLhxA/view?utm_content=DAG2O867Va0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f1e225218)  
+[![PPT](https://img.shields.io/badge/Presentation-PPTX-blue)](https://www.canva.com/design/DAG48oXqHcI/6uaZcrjqu-m83p6Ywn1L7g/view?utm_content=DAG48oXqHcI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h207a01dec9)  
 
 
 ## 🌐 Check out our project
