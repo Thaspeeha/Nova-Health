@@ -27,7 +27,7 @@ By combining **automation 🤖, data intelligence 📊, and human judgment 🧠*
 
 
 ## 🧪 Prototype
-[![View Prototype](https://img.shields.io/badge/View-Prototype-purple?style=for-the-badge&logo=figma)](https://www.figma.com/design/jxHLSYMIqCHgXnMylKjwqe/Nova-Health?t=sUFvy1usHmN74qB7-1)
+[![View Prototype](https://img.shields.io/badge/View-Prototype-purple)](https://www.figma.com/design/jxHLSYMIqCHgXnMylKjwqe/Nova-Health?t=sUFvy1usHmN74qB7-1)
 
 
 ## 🖥️ Presentation
