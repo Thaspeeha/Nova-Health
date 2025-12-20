@@ -26,7 +26,7 @@ By combining **automation 🤖, data intelligence 📊, and human judgment 🧠*
 - Strengthen preventive healthcare strategies across regions
 
 
-## 🧪 Prototype
+## 🧪 Figma Prototype
 [![View Prototype](https://img.shields.io/badge/View-Prototype-purple)](https://www.figma.com/design/jxHLSYMIqCHgXnMylKjwqe/Nova-Health?t=sUFvy1usHmN74qB7-1)
 
 
