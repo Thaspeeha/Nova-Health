@@ -82,6 +82,19 @@ Opus is built as an **AI-native workflow builder**, combining:
 - Custom Python execution nodes  
 - End-to-end traceability and logging
 
+
+## 🎯 Impact
+
+Opus enables public health organizations to:
+
+- Detect risks **earlier**
+- Respond **faster** to critical cases
+- Maintain **transparent, explainable decisions**
+- Scale operations without sacrificing trust or compliance  
+
+### 🧠 Opus Workflow
+[View our Opus Workflow](https://app.opus.com/app/workflow/share/c0b5aef5-9906-4f96-b547-6c08767b1c3b)
+
   
 ## 🧪 Figma Prototype
 [![View Prototype](https://img.shields.io/badge/View-Prototype-purple)](https://www.figma.com/design/jxHLSYMIqCHgXnMylKjwqe/Nova-Health?t=sUFvy1usHmN74qB7-1)
@@ -97,16 +110,6 @@ Opus is built as an **AI-native workflow builder**, combining:
 
 ## 🎥 Watch the Project Video
 [Watch the video](https://www.canva.com/design/DAG4-HegoeM/eHTJJphNvnqJQvqW18y_zA/watch?utm_content=DAG4-HegoeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9489606611)
-
-
-## 🎯 Impact
-
-Opus enables public health organizations to:
-
-- Detect risks **earlier**
-- Respond **faster** to critical cases
-- Maintain **transparent, explainable decisions**
-- Scale operations without sacrificing trust or compliance  
 
 
 ## 📜 License
