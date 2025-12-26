@@ -92,7 +92,7 @@ Opus enables public health organizations to:
 - Maintain **transparent, explainable decisions**
 - Scale operations without sacrificing trust or compliance  
 
-### 🧠 Opus Workflow
+## 🧠 Opus Workflow
 [View our Opus Workflow](https://app.opus.com/app/workflow/share/c0b5aef5-9906-4f96-b547-6c08767b1c3b)
 
   
