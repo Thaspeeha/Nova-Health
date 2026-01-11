@@ -64,15 +64,8 @@ Opus is built as an **AI-native workflow builder**, combining:
 - 🤖 Agentic automation  
 - 🧠 Large Work Models (LWMs)  
 - 🕸️ Work Knowledge Graphs  
-- 👥 Human-in-the-loop validation  
-
-### Key Capabilities
-- AI/ML-based trend prediction  
-- Scalable data pipelines  
-- API integration  
-- Compliance tracking  
-- Full execution logging  
-
+- 👥 Human-in-the-loop validation
+  
 
 ## 🎛️ Workflow Builder Features
 
