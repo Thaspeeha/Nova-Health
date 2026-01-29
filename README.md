@@ -1,6 +1,34 @@
 # 🖥️ AI Genesis Hackathon 2025 🛠️
 
 
+## ✨ The Challenge
+
+Design a reusable “Intake → Understand → Decide → Review → Deliver” automation that tackles the messy reality of multi‑format intake, mixed rule‑based + judgment decisions, and exception handling—while keeping every step traceable. Public/demo data and free external APIs are fine; enterprise integrations are not expected.
+
+## 🛠️ What You’ll Build
+
+Create one end‑to‑end Opus workflow that tackles a real use case in an industry of your choice. Demonstrate it with realistic sample inputs.
+
+Required building blocks:
+
+• Data import & processing: Import from an external source (file, sheet, or public API) and make processed records available downstream.
+
+• Decisioning & routing: Combine deterministic rules (thresholds, required fields, format checks) with AI reasoning (categorization, summarization). Support multi‑condition logic, parallelize independent steps, and handle errors/timeouts sensibly.
+
+• Review for quality & safety: Include at least two checkpoints—Agentic Review (policy/guidance checks) and Human Review for low‑confidence or high‑impact cases.
+
+• Provenance & audit: Generate a compact audit artifact (JSON or PDF) capturing inputs, extracted fields + confidence, rules fired, scores/rationales, review actions, timestamps, IDs, and any external source URLs.
+
+• Delivery: Export outcomes (e.g., via email or Google Sheets).
+
+
+🧰 Technology You Can Use:
+
+• No‑code: prompt‑to‑workflow generation and the visual canvas builder.
+
+• Developers: Opus Code node (custom Python), External Service node (public APIs), and Data Import/Export for supported platforms; jobs can be triggered via API.
+
+
 ## 🏥 NovaHealth - Preventive Health Intelligence System
 
 The **Preventive Health Intelligence System** transforms **raw, fragmented health data** into **actionable insights** to support **proactive public health decision-making**.  
