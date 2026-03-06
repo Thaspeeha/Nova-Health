@@ -127,6 +127,13 @@ Opus enables public health organizations to:
 ## 🎥 Watch the Project Video
 [Watch the video](https://www.canva.com/design/DAG4-HegoeM/eHTJJphNvnqJQvqW18y_zA/watch?utm_content=DAG4-HegoeM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9489606611)
 
+## 👥 Contributors
+[![Syeda Nizalia](https://img.shields.io/badge/Syeda-Nizalia-pink)](https://www.linkedin.com/in/syeda-nizalia/) 
+[![Sanjitha Mohammad](https://img.shields.io/badge/Sanjitha-Mohammad-red)](https://www.linkedin.com/in/sanjitha-mohammad-831556286/) 
+[![Insia Syed](https://img.shields.io/badge/Insia-Syed-purple)](https://www.linkedin.com/in/insia-syed-3645a32b2/) 
+[![Adhwai Rajeev](https://img.shields.io/badge/Adhwai-Rajeev-blue)](https://www.linkedin.com/in/adhwai-rajeev/) 
+[![Fadwa Manakkadavan](https://img.shields.io/badge/Fadwa-Manakkadavan-blue)](https://www.linkedin.com/in/fadwa-manakkadavan-184928246/) 
+
 
 ## 📜 License
 
