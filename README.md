@@ -132,7 +132,7 @@ Opus enables public health organizations to:
 [![Sanjitha Mohammad](https://img.shields.io/badge/Sanjitha-Mohammad-red)](https://www.linkedin.com/in/sanjitha-mohammad-831556286/) 
 [![Insia Syed](https://img.shields.io/badge/Insia-Syed-purple)](https://www.linkedin.com/in/insia-syed-3645a32b2/) 
 [![Adhwai Rajeev](https://img.shields.io/badge/Adhwai-Rajeev-blue)](https://www.linkedin.com/in/adhwai-rajeev/) 
-[![Fadwa Manakkadavan](https://img.shields.io/badge/Fadwa-Manakkadavan-blue)](https://www.linkedin.com/in/fadwa-manakkadavan-184928246/) 
+[![Fadwa Manakkadavan](https://img.shields.io/badge/Fadwa-Manakkadavan-red)](https://www.linkedin.com/in/fadwa-manakkadavan-184928246/) 
 
 
 ## 📜 License
