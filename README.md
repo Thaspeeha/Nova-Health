@@ -134,6 +134,9 @@ Opus enables public health organizations to:
 [![Adhwai Rajeev](https://img.shields.io/badge/Adhwai-Rajeev-blue)](https://www.linkedin.com/in/adhwai-rajeev/) 
 [![Fadwa Manakkadavan](https://img.shields.io/badge/Fadwa-Manakkadavan-red)](https://www.linkedin.com/in/fadwa-manakkadavan-184928246/) 
 
+## 🚀 My Certificate
+
+[![Certificate](https://img.shields.io/badge/NovaHealth-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/1763802818399/single-media-viewer/?profileId=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)
 
 ## 📜 License
 
